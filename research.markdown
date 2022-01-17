@@ -5,14 +5,14 @@ permalink: /research/
 ---
 
 # Working Papers
-The Ideal Gender Division of Work in Politics  - Evidence from Online Surveys in Tanzania
-*with Joel Lincoln (UDSM), Severious Likwelile (UDSM), Pablo Selaya (UCPH), and Sina Smid (CBS)*
-In preparation. Current version: December 2021
+<p> **The Ideal Gender Division of Work in Politics  - Evidence from Online Surveys in Tanzania**<br>
+*with Joel Lincoln (UDSM), Severious Likwelile (UDSM), Pablo Selaya (UCPH), and Sina Smid (CBS)*<br>
+In preparation. Current version: December 2021</p>
 
 # Work in Progress
-**(R)evolutionize - Democratization in Tunisia}**
-Manuscript available. Current version: January 2022
+<p>**(R)evolutionize - Democratization in Tunisia}** <br>
+Manuscript available. Current version: January 2022</p>
 
-**Overcoming Intimate Partner Violence in Denmark**
-*with Jack Melbourne (Bocconi) and Maddalena Grignani (UPF)*
-Ongoing data collection.
+<p>**Overcoming Intimate Partner Violence in Denmark**<br>
+*with Jack Melbourne (Bocconi) and Maddalena Grignani (UPF)*<br>
+Ongoing data collection.</p>
