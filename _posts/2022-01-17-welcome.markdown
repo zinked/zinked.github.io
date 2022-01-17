@@ -29,5 +29,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 ---> 
 
-Welcome to my website! You can find up to date information on my [teaching activites][https://zinked.github.io/teaching], my [CV][https://zinked.github.io/cv/],
-and my [research projects][https://zinked.github.io/research/].
+Welcome to my website! You can find up to date information on my [teaching activites][teaching], my [CV][CV],
+and my [research projects][research].
+
+[teaching]: https://zinked.github.io/teaching
+[CV]: https://zinked.github.io/cv/
+[research]: https://zinked.github.io/research/
