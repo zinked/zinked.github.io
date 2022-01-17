@@ -5,10 +5,7 @@
 layout: home
 ---
 
-Thanks for visiting my website!
-
 I am a PhD candidate at the University of Copenhagen. 
-
 I am an applied microeconomist working at the intersection of development 
-  economics, political economics, and economic history. I am interested in how
-  cultural and institutional change interact with economic outcomes.
+economics, political economics, and economic history. I am interested in how
+cultural and institutional change interact with economic outcomes.
