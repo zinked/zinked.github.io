@@ -4,8 +4,8 @@ title: Other
 permalink: /other/
 ---
 
-**Local Election Predictions - A Machine Learning Approach** <\br>
-[Project website (in German)](https://www.wahlorakel.com/) <\br>
+**Local Election Predictions - A Machine Learning Approach** <br>
+[Project website (in German)](https://www.wahlorakel.com/) <br>
 We explore the potential for machine learning algorithms to predict local election 
 outcomes. In order to do so, we collect micro-level data on candidates from 
 several sources. We use different prediction algorithms including neural networks 
