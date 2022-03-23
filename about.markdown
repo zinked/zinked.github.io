@@ -4,5 +4,5 @@ title: CV
 permalink: /cv/
 ---
 
-<a href="/folder/resume.pdf" target="_blank">CV (PDF)</a> <\br>
+<a href="/folder/resume.pdf" target="_blank">CV (PDF)</a> <br>
 [CV (PDF)](zinked.github.io/folder/resume.pdf)
