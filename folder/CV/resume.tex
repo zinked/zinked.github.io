@@ -1,0 +1,258 @@
+\documentclass[10pt,a4paper]{article} 
+
+% Change Font
+%\usepackage[scaled]{helvet}
+%\renewcommand\familydefault{\sfdefault} 
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc} 
+
+
+\usepackage{savesym}
+\usepackage{amsmath}
+\savesymbol{iint}
+\savesymbol{openbox}
+\usepackage{txfonts}
+\restoresymbol{TXF}{iint}
+\restoresymbol{TXF}{openbox}
+
+\usepackage{comment}
+
+
+\usepackage[labelfont=bf]{caption}
+\usepackage{subcaption}
+\renewcommand{\thesubfigure}{(\alph{subfigure})}
+\captionsetup[sub]{labelformat=simple}
+
+%\usepackage[english]{babel}
+
+\usepackage{epigraph}
+\setlength\epigraphwidth{12cm}
+\setlength\epigraphrule{0pt}
+
+\usepackage{geometry}
+\geometry{a4paper} 
+\geometry{top=2cm, bottom=2cm, left=2cm, right=2cm}
+\usepackage{setspace}
+\singlespace
+\setlength\parindent{0pt}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{fancyhdr,colortbl}
+
+\usepackage{lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\cfoot{\thepage\ of \pageref{LastPage}}
+
+\usepackage{graphicx}
+\usepackage{forest}
+
+% Some nice colors
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+\definecolor{antiquefuchsia}{rgb}{0.57, 0.36, 0.51}
+\definecolor{amaranth}{rgb}{0.9, 0.17, 0.31}
+\definecolor{arsenic}{rgb}{0.23, 0.27, 0.29}
+\definecolor{aurometalsaurus}{rgb}{0.43, 0.5, 0.5}
+\definecolor{azure}{rgb}{0.0, 0.5, 1.0}
+\definecolor{bazaar}{rgb}{0.6, 0.47, 0.48}
+\definecolor{blue_pigment}{rgb}{0.2, 0.2, 0.6}
+\definecolor{burgundy}{rgb}{0.5, 0.0, 0.13}
+\definecolor{cadet}{rgb}{0.33, 0.41, 0.47}
+\definecolor{coolblack}{rgb}{0.0, 0.18, 0.39}
+\usepackage[colorlinks = true,
+            linkcolor = cadet,
+            urlcolor  = blue_pigment,
+            citecolor = blue_pigment,
+            anchorcolor = black]{hyperref}
+
+\usepackage{afterpage}
+
+\usepackage{scrextend} % Indent text
+
+\usepackage{tabularx}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\usepackage{longtable}
+\usepackage{wrapfig}
+
+\usepackage{booktabs}
+\usepackage{pdflscape}
+\usepackage[online]{threeparttablex}
+
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\usepackage{multirow}
+\usepackage{float}
+
+\usepackage[explicit]{titlesec}
+
+%Underlining ruler for sections
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {\thesection}
+  {1em}
+  {#1}
+  [{\titlerule[0.8pt]}]
+
+
+\newcommand*{\printdate}{%
+   \ifcase \month\or January\or February\or March\or April\or May\or June\or July\or
+    August\or September\or October\or November\or December\fi \space \number\year}
+
+\begin{document}
+\begin{center}
+\begin{huge}
+Edith Zink
+\end{huge} \\
+\printdate
+\end{center}
+
+%\par\noindent\rule{\textwidth}{0.4pt}
+\begin{multicols}{2}
+University of Copenhagen \newline
+Department of Economics \newline
+Øster Farimagsgade 5, 1014 København K
+\newline
+\textbf{Website} \url{https://zinked.github.io/}
+\newline
+\textbf{E-Mail} \url{ezi.zink@gmail.com}
+\newline
+\textbf{Skype} \href{https://join.skype.com/invite/IuTKaP5eDilS}{ezi.zink}
+%\textbf{Born} May 24, 1994
+%\newline
+%\textbf{Citizenship} German
+%\newline
+
+
+\end{multicols}
+%\par\noindent\rule{\textwidth}{0.4pt}
+
+\section*{Education}
+\textbf{Ph.D. Economics} \hfill ongoing
+\newline
+University of Copenhagen (Denmark) \newline
+Supervisor: \href{http://web.econ.ku.dk/pabloselaya/}{Pablo Selaya}
+\vspace{1em}
+
+\textbf{M.Sc. Economics} \hfill July 2020
+\newline
+University of Copenhagen (Denmark)
+%GPA: 10.6/12
+\vspace{1em}
+
+\textbf{B.Sc. Economics} \hfill July 2017
+\newline
+University of Mannheim (Germany) 
+%GPA: 1.8
+
+\section*{Research Visits}
+\textbf{Bocconi University, LEAP} (Italy) \hfill Spring 2022 \newline
+Host: Eliana La Ferrara
+\vspace{1em}
+
+\textbf{Stockholm University, SOFI} (Sweden) \hfill Fall 2021 \newline
+Host: Johanna Rickne
+
+
+\section*{Experience}
+\textbf{Short Term Consultant} \hfill December 2020 - today\newline
+World Bank, Tom Bundervoet
+\vspace{1em}
+
+\textbf{Graduate Assistant} \hfill January - April 2018
+\newline
+Georgia Tech, Michael E. Kummer 
+\vspace{1em}
+
+\textbf{Intern \& Graduate Assistant} \hfill January - July 2017
+\newline
+Centre for European Economic Research (ZEW), Digital Economy, Irene Bertschek
+
+\section*{Teaching and Supervision}
+\textbf{Bachelor Thesis Supervision} \hfill Spring 2021
+\newline
+Thesis title: The Effect of the Active Labor Market Policies on Non-Western Immigrants in Denmark \\
+University of Copenhagen, Department of Economics
+\vspace{1em}
+
+\textbf{Advanced Development Economics: Microeconomic Aspects} \hfill Spring 2020
+\newline
+Applied exercises in Stata, assignment grading \\
+Master's level course at
+University of Copenhagen, Department of Economics
+\vspace{1em}
+
+\textbf{Advanced Microeconometrics} \hfill Fall 2019
+\newline
+Applied exercises with derivations and Matlab application, assignment grading \\
+Master's level course at
+University of Copenhagen, Department of Economics
+\vspace{1em}
+
+\textbf{Social Data Science} \hfill Summer 2019
+\newline
+Assistance for exercise solving and project realization in Python \\
+Summer School at University of Copenhagen, Department of Economics
+\vspace{1em}
+
+\textbf{Economic Growth and Inequality} \hfill Fall 2019
+\newline
+Teaching assistance for quantitative seminars \\
+Master's level course at
+University of Copenhagen, Global Development
+\vspace{1em}
+
+\textbf{Advanced Development Economics: Macroeconomic Aspects} \hfill Fall 2018 \& 2019
+\newline
+Seminars with jigsaw discussions, lecturing, provision of feedback on submissions \\
+Master's level course at
+University of Copenhagen, Department of Economics
+
+
+
+
+\section*{Skills}
+\paragraph*{Languages}
+German (native), English (fluent), Danish (B2), Spanish (B1)
+
+\paragraph*{Software}
+Python, Stata, \TeX, Microsoft Office, Markdown,
+Github, R (basic), Matlab (basic)
+
+\section*{Work in Progress}
+\textbf{The Double Deed of Democratization and Decentralization - The Arab Uprisings in Tunisia}
+\newline
+Manuscript available. Current version: June 2022
+\vspace{1em}
+
+\textbf{Unveiling Preferences for Women in Politics -
+Experimental Evidence in Light of Political Changes in Tanzania}
+\newline
+\emph{with Joel Lincoln (UDSM), Severious Likwelile (UDSM), Pablo Selaya (UCPH), and Sina Smid (CBS)}
+\newline
+Draft available. Current version: June 2022
+\vspace{1em}
+
+\textbf{Geographic Demarcations, Moving Decisions, and Signals -
+Vulnerable Areas in Denmark}
+\newline
+\emph{with Jack Melbourne (Bocconi)}
+\newline
+Manuscript available. Current version May 2022.
+\vspace{1em}
+
+\textbf{Overcoming Intimate Partner Violence in Denmark}
+\newline
+\emph{with Jack Melbourne (Bocconi) and Maddalena Grignani (UPF)}
+\newline
+Ongoing data collection.
+
+
+\begin{comment}
+\section*{Other Interests}
+\textbf{Local Election Predictions - A Machine Learning Approach}
+\newline
+\href{https://www.wahlorakel.com/}{Project website (in German)} \\
+We explore the potential for machine learning algorithms to predict local election outcomes. In order to do so, we collect micro-level data on candidates from several sources. We use different prediction algorithms including neural networks to train estimators based on past election results. Then, we apply these estimator to the current candidate lists to predict results of upcoming elections. So far, we publicly covered three local elections in Bavaria (March 2020), North Rhine-Westphalia (September 2020), Hesse (March 2021), and one mayoral election in Stuttgart (November 2020).
+\end{comment}
+\end{document}

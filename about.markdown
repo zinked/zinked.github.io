@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<a href="/folder/resume.pdf" target="_blank">CV (PDF)</a>
+<a href="/folder/CV/resume.pdf" target="_blank">CV (PDF)</a>
