@@ -16,7 +16,7 @@ Draft available. Current version: October 2022
 Working paper avaible. Current version: November 2022 
 
 
-**Geographic demarcations and migration decisions - Vulnerable areas in Denmark**
+**Geographic demarcations and migration decisions - Vulnerable areas in Denmark** <br>
 *with Jack Melbourne (Bocconi)* <br>
 Draft available. Current version: August 2022
 
