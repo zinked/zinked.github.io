@@ -9,3 +9,5 @@ I am a PhD candidate at the [University of Copenhagen](https://www.economics.ku.
 I am an applied microeconomist working at the intersection of development 
 economics, political economics, and economic history. I am interested in social inclusion and how
 cultural and institutional change interact with economic outcomes.
+
+# Economics of Culture, Social Economics, Political Economy
