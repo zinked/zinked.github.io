@@ -7,16 +7,16 @@ permalink: /teaching/
 **Spring 2023** <br>
 Interdisciplinary Field Research<br>
 *Master’s level course at University of Copenhagen, Global Development*<br>
-Assistent, help students with realization of interdisciplinary research projects during field work in Nepal<br>
+Assistant, help students with realization of interdisciplinary research projects during field work in Nepal<br>
 
 Advanced Development Economics: Microeconomic Aspects<br>
 *Master’s level course at University of Copenhagen, Department of Economics*<br>
-Assistent, applied exercises in Stata, assignment grading<br>
+Assistant, applied exercises in Stata, assignment grading<br>
 
 **Spring 2020** <br>
 Advanced Development Economics: Microeconomic Aspects<br>
 *Master’s level course at University of Copenhagen, Department of Economics*<br>
-Assistent, applied exercises in Stata, assignment grading<br>
+Assistant, applied exercises in Stata, assignment grading<br>
 
 **Spring 2019**<br>
 Economic Growth and Inequality<br>
@@ -29,7 +29,7 @@ Assistance for exercise solving and project realization in Python<br>
 
 Advanced Microeconometrics<br>
 *Master’s level course at University of Copenhagen, Department of Economics*<br>
-Assistent, applied exercises with derivations and Matlab application, assignment grading   <br>
+Assistant, applied exercises with derivations and Matlab application, assignment grading   <br>
 
 **Fall 2018-2019**<br>
 Advanced Development Economics: Macroeconomic Aspects<br>

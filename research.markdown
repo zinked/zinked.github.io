@@ -11,7 +11,7 @@ permalink: /research/
 **Power Struggles After Autocracy - Evidence from Post-Uprising Tunisia** <br>
 Current version: July 2023
 
-**What is the ideal number of women in politics  - Preferences for inequality and meritocracy** <br>
+**What is the Ideal Number of Women in Politics? - Distributive Preferences, Inequality, and Meritocracy** <br>
 *with  Pablo Selaya (UCPH), and Sina Smid (CBS)* <br>
 Current version: July 2023 
 
