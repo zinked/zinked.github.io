@@ -6,5 +6,5 @@ layout: home
 ---
 
 I am a PhD candidate at the [University of Copenhagen](https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/594488). 
-I am an applied microeconomist working interested in the political economy of social exclusion. More broadly, I am working on how
+I am an applied microeconomist interested in the political economy of social exclusion. More broadly, I am working on how
 cultural and institutional change interact with economic outcomes.
