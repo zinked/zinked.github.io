@@ -27,5 +27,5 @@ Ongoing data collection.  -->
 
 
 # Work in Progress
-**Early Integration Outcomes of Ukrainian Refugees**
-*with Mette Foged (UCPH)
+**Early Integration Outcomes of Ukrainian Refugees** <br>
+*with Mette Foged (UCPH)* <br>
