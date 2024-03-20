@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -17,7 +14,7 @@ layout: home
 
 <div class="container">
   <div class="column">
-    <img src="/folder/portrait.jpg"
+    <img src="folder/portrait.jpg"
     style="float: left; margin-right: 10px;" />
   </div>
   <div class="column">
