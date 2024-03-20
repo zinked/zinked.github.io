@@ -3,6 +3,11 @@ layout: page
 title: Teaching Experience
 permalink: /teaching/
 ---
+**Spring 2024** <br>
+Interdisciplinary Field Research<br>
+*Master’s level course at University of Copenhagen, Global Development*<br>
+Assistant, help students with realization of interdisciplinary research projects during field work in Bolivia<br>
+
 
 **Spring 2023** <br>
 Interdisciplinary Field Research<br>

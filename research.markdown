@@ -11,7 +11,7 @@ permalink: /research/
 **Power Struggles After Autocracy - Evidence from Post-Uprising Tunisia** <br>
 Current version: July 2023
 
-**What is the Ideal Number of Women in Politics? - Distributive Preferences, Inequality, and Meritocracy** <br>
+**What is the Ideal Number of Women in Politics? - The Gender Gap in the Perceived Deficit of Women in Politics** <br>
 *with  Pablo Selaya (UCPH), and Sina Smid (CBS)* <br>
 Current version: July 2023 
 
@@ -22,8 +22,8 @@ Current version: July 2023
 
 
 # Work in Progress
-**Early Integration Outcomes of Ukrainian Refugees** <br>
-*with Mette Foged (UCPH)* <br>
+**Trauma and Refugees' Employment -- Evidence from People Displaced from Ukraine** <br>
+*with Mette Foged (UCPH, Economics), Karen-Inge Karstoft (UCPH, Psychology), Anne Agathe Pedersen (UCPH, Psychology)* <br>
 
 
 # Other
