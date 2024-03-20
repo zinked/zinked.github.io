@@ -22,7 +22,7 @@ layout: home
   <div class="column">
 I am a Post-Doc at the Department of Economics,  <a href="https://www.economics.ku.dk/">University of Copenhagen</a>. 
 
-I am a political economist working on social exclusion.>
+I am a political economist working on social exclusion.
 </div>
 </div>
 
