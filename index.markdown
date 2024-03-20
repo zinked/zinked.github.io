@@ -17,7 +17,7 @@ layout: home
 
 <div class="container">
   <div class="column">
-    <img src=/folder/portrait.jpg
+    <img src="/folder/portrait.jpg"
     style="float: left; margin-right: 10px;" />
   </div>
   <div class="column">
