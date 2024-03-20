@@ -5,6 +5,12 @@
 layout: home
 ---
 
+Here's an image of a drag racer in action:
+
+![Drag Racing](folder/portrait.jpg)
+
+Move along.
+
 <style>
   .container {
     display: flex;
