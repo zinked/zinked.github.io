@@ -17,7 +17,9 @@ layout: home
 
 <div class="container">
   <div class="column">
-    <img src="folder/portrait.jpg">
+    <img src="folder/portrait.jpg"
+<!--      alt="Markdown Monster icon" -->
+     style="float: left; margin-right: 10px;" />
   </div>
   <div class="column">
 I am a Post-Doc at the Department of Economics,  <a href="https://www.economics.ku.dk/">University of Copenhagen</a>. 
