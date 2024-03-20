@@ -5,12 +5,6 @@
 layout: home
 ---
 
-Here's an image of a drag racer in action:
-
-![Drag Racing](folder/portrait.jpg)
-
-Move along.
-
 <style>
   .container {
     display: flex;
@@ -23,7 +17,7 @@ Move along.
 
 <div class="container">
   <div class="column">
-    <img src="folder/portrait.jpg"
+    <img src="portrait.jpg"
 <!--      alt="Markdown Monster icon" -->
      style="float: left; margin-right: 10px;" />
   </div>
