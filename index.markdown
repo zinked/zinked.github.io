@@ -20,7 +20,7 @@ layout: home
     <img src="folder/portrait.jpg">
   </div>
   <div class="column">
-I am a Post-Doc at the Department of Economics, [University of Copenhagen](https://www.economics.ku.dk/). 
+I am a Post-Doc at the Department of Economics,  <a href="https://www.economics.ku.dk/">University of Copenhagen</a>. 
 
 I am a political economist working on social exclusion.>
 </div>
