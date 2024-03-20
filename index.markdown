@@ -17,7 +17,7 @@ layout: home
 
 <div class="container">
   <div class="column">
-    <img src="portrait.jpg"
+    <img src="/folder/portrait.jpg"
 <!--      alt="Markdown Monster icon" -->
      style="float: left; margin-right: 10px;" />
   </div>

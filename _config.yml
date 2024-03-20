@@ -23,14 +23,13 @@ email: ezi.zink@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Post-Doc at University of Copenhagen
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://orcid.org/0000-0002-9979-4837" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zinked.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zink_ed
 github_username:  zinked
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 # Exclude from processing.
