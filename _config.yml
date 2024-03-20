@@ -21,7 +21,7 @@
 title: Edith Zink
 email: ezi.zink@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate at University of Copenhagen
+  Post-Doc at University of Copenhagen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zinked.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zink_ed
