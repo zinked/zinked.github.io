@@ -16,14 +16,14 @@ Current version: July 2023
 Current version: July 2023 
 
 
-**The Making of a Ghetto - Residential Moving and Neighborhood Segregation** <br>
-*with Jack Melbourne (Bocconi)* <br>
+**Neighborhood Engineering - Place-Based Policies and Segregation** <br>
+*with Jack Melbourne (Bocconi), Sara Signorelli (CREST), Yajna Govind (Copenhagen Business School)* <br>
 Current version: July 2023
 
 
 # Work in Progress
 **Trauma and Refugees' Employment -- Evidence from People Displaced from Ukraine** <br>
-*with Mette Foged (UCPH, Economics), Karen-Inge Karstoft (UCPH, Psychology), Anne Agathe Pedersen (UCPH, Psychology)* <br>
+*with Mette Foged (UCPH, Economics), Karen-Inge Karstoft (UCPH, Psychology)* <br>
 
 
 # Other
