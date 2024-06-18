@@ -18,7 +18,7 @@ Current version: July 2023
 
 **Neighborhood Engineering - Place-Based Policies and Segregation** <br>
 *with Jack Melbourne (Bocconi), Sara Signorelli (CREST), Yajna Govind (Copenhagen Business School)* <br>
-Current version: July 2023
+Current version: January 2024
 
 
 # Work in Progress
