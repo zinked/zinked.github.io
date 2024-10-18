@@ -25,6 +25,12 @@ Current version: October 2024
 *with Mette Foged (UCPH, Economics), Karen-Inge Karstoft (UCPH, Psychology)* <br>
 Current version: October 2024
 
+# Other writing
+Zink, E., Karstoft, K.-I., & Foged, M. (2024). <br>
+**Arbeiten ukrainische Geflüchtete mehr als andere Geflüchtete? Erwerbstätigenquoten aus Dänemark im Vergleich mit Deutschland.** <br> 
+ifo Schnelldienst, 10/2024: Return or Integration. ifo Institut. <br>
+https://www.ifo.de/en/publications/2024/journal-complete-issue/ifo-schnelldienst-102024-return-or-integration
+
 
 [comment]: <> # Work in Progress
 
