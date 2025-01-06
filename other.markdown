@@ -7,9 +7,9 @@ permalink: /other_writing/
 # Other Writing
 
 **Arbeiten ukrainische Geflüchtete mehr als andere Geflüchtete? Erwerbstätigenquoten aus Dänemark im Vergleich mit Deutschland.** <br> 
-Zink, E., Karstoft, K.-I., & Foged, M. (2024). <br>
-ifo Schnelldienst, 10/2024: Return or Integration. ifo Institut. <br>
-[https://www.ifo.de/en/publications/2024/journal-complete-issue/ifo-schnelldienst-102024-return-or-integration](https://www.ifo.de/en/publications/2024/journal-complete-issue/ifo-schnelldienst-102024-return-or-integration)
+*Zink, E., Karstoft, K.-I., & Foged, M. (2024)* <br>
+[ifo Schnelldienst, 10/2024: Return or Integration](https://www.ifo.de/en/publications/2024/journal-complete-issue/ifo-schnelldienst-102024-return-or-integration)<br>
+<a href="https://github.com/zinked/zinked.github.io/blob/master/files/Ifo_Schnelldienst2024_FINAL_ENGLISH.pdf" target="_blank">English translation of contribution</a>
 
 
 [comment]: <> # Other
