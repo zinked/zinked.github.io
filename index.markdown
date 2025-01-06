@@ -14,15 +14,14 @@ layout: home
 
 <div class="container">
   <div class="column">
-    <img src="folder/portrait.jpg"
+    <img src="files/portrait.jpg"
     style="float: left; margin-right: 30px;" />
   </div>
   <div class="column">
- Welcome to my website. <br>
- I am a political economist studying social exclusion and currently employed as a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. <br>
 </div>
 </div>
 
+I am a political economist studying social exclusion and currently employed as a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. <br>
 My most recent work is focused on Ukrainian refugees in Denmark.
 Previously, I have studied political participation of women in Tanzania, redistribution of political power in Tunisia
 after the Arab Uprisings, and evaluated Denmark’s public housing policies. Methodologically, I am an applied microeconometrician.
