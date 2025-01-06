@@ -4,8 +4,6 @@ title: Other writing
 permalink: /other_writing/
 ---
 
-# Other Writing
-
 **Arbeiten ukrainische Geflüchtete mehr als andere Geflüchtete? Erwerbstätigenquoten aus Dänemark im Vergleich mit Deutschland.** <br> 
 *Zink, E., Karstoft, K.-I., & Foged, M. (2024)* <br>
 [ifo Schnelldienst, 10/2024: Return or Integration](https://www.ifo.de/en/publications/2024/journal-complete-issue/ifo-schnelldienst-102024-return-or-integration)<br>
