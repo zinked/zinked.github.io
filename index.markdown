@@ -14,6 +14,7 @@ layout: home
   .column img {
     max-width: 200px; /* Adjust the size as needed */
     margin: 0 auto;
+	margin-bottom: 20px; /* Adjust the space as needed */
   }
 </style>
 
