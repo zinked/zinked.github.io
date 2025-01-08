@@ -9,6 +9,10 @@ permalink: /other_writing/
 [ifo Schnelldienst, 10/2024: Return or Integration](https://www.ifo.de/en/publications/2024/journal-complete-issue/ifo-schnelldienst-102024-return-or-integration)<br>
 <a href="https://github.com/zinked/zinked.github.io/blob/master/files/Ifo_Schnelldienst2024_FINAL_ENGLISH.pdf" target="_blank">English translation of contribution</a>
 
+**Status for ukrainernes arbejdsmarkedsintegration** <br>
+*Foged, M., Zink, E., Arendt, J. N. (2024)* <br>
+[ROCKWOOL Fonden Forskning - Analyse](https://rockwoolfonden.dk/udgivelser/status-for-ukrainernes-arbejdsmarkedsintegration/)
+
 
 [comment]: <> # Other
 [comment]: <> **Local Election Predictions - A Machine Learning Approach** <br>
