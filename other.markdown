@@ -5,7 +5,7 @@ permalink: /other_writing/
 ---
 
 **Størstedelen af ukrainerne ønsker at blive i Danmark** <br>
-*Foged, M., Karstoft, K-I, Zink, E. (2025)* <br>
+*Foged, M., Karstoft, K.-I., Zink, E. (2025)* <br>
 [ROCKWOOL Fonden Forskning - Analyse](https://rockwoolfonden.dk/udgivelser/stoerstedelen-af-ukrainerne-oensker-at-blive-i-danmark/) <br>
 Featured by ROCKWOOL Foundation Berlin in English, German, Polish, and Ukrainian: [The Majority of Ukrainians Wish to Stay in Denmark](https://www.rfberlin.com/ukrainians-stay-denmark-rfru/)
 
