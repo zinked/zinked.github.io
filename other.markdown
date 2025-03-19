@@ -4,6 +4,11 @@ title: Other writing
 permalink: /other_writing/
 ---
 
+**Størstedelen af ukrainerne ønsker at blive i Danmark** <br>
+*Foged, M., Karstoft, K-I, Zink, E. (2025)* <br>
+[ROCKWOOL Fonden Forskning - Analyse](https://rockwoolfonden.dk/udgivelser/stoerstedelen-af-ukrainerne-oensker-at-blive-i-danmark/) <br>
+Featured by ROCKWOOL Foundation Berlin in English, German, Polish, and Ukrainian: [The Majority of Ukrainians Wish to Stay in Denmark](https://www.rfberlin.com/ukrainians-stay-denmark-rfru/)
+
 **Arbeiten ukrainische Geflüchtete mehr als andere Geflüchtete? Erwerbstätigenquoten aus Dänemark im Vergleich mit Deutschland.** <br> 
 *Zink, E., Karstoft, K.-I., & Foged, M. (2024)* <br>
 [ifo Schnelldienst, 10/2024: Return or Integration](https://www.ifo.de/en/publications/2024/journal-complete-issue/ifo-schnelldienst-102024-return-or-integration)<br>
