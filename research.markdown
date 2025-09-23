@@ -9,17 +9,17 @@ permalink: /research/
 
 # Working Papers
 
-**[NEW] [The Making of a Ghetto: Place-Based Policies, Labeling, and Impacts on Neighborhoods and Individuals](https://docs.iza.org/dp17573.pdf)** <br>
+** [The Making of a Ghetto: Place-Based Policies, Labeling, and Impacts on Neighborhoods and Individuals](https://docs.iza.org/dp17573.pdf)** <br>
 *with Jack Melbourne (Bocconi), Sara Signorelli (CREST), Yajna Govind (Copenhagen Business School)* <br>
 
 [IZA Discussion Paper](https://docs.iza.org/dp17573.pdf)<br>
 
-> Does the labeling of neighborhoods affect their outcomes? Place-based policies targeting disadvantaged areas aim to improve their conditions, but the labels they impose carry consequences of their own. 
-In this paper, we examine Denmark's Ghetto Plan which designated public housing areas with a large share of immigrant population, high crime, and high unemployment as ``ghettos'', with minimal additional implications. 
-We exploit Danish administrative data, and adopt a Difference-in-Differences approach at the neighborhood and individual level. We find that the policy led to worsening average characteristics at the neighborhood level, 
-largely due to compositional changes driven by Danish new entrants with lower income and education levels. Following individuals affected by the policy, we find significant negative effects on their income with no discernible effects on criminal behavior. 
-We estimate that Danes are willing to accept a 3% drop in income to move out of labeled neighborhoods. In all, the Danish ghetto policy was largely ineffective, and in some aspects, even detrimental. <br>
+<details>
+  <summary>ABSTRACT</summary>
+  > Policies targeting disadvantaged areas aim to improve their conditions, but the labels they impose carry consequences of their own. In this paper, we examine Denmark's Ghetto Plan, one of the first recent place-based policies explicitly targeting migrant populations. Under this policy, certain public housing deemed ``problematic'' were officially designated as ``ghettos'', with minimal additional implications. Using rich administrative data and a Difference-in-Differences approach, we show that the policy backfired, worsening spatial inequality through compositional shifts driven by native avoidance. In addition, the policy was particularly detrimental to exposed natives, who accepted a 4% annual income loss to leave stigmatized areas.
+</details>
 
+<br>
 
 **Power Struggles After Autocracy - Evidence from Post-Uprising Tunisia** <br>
 
