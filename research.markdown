@@ -21,8 +21,11 @@ permalink: /research/
 <br>
 
 
+# Work in Progress
+
+
 **PTSD and Refugees' Underemployment -- Evidence from People Displaced from Ukraine** <br>
-*with Mette Foged (UCPH, Economics), Karen-Inge Karstoft (UCPH, Psychology)* <br>
+*with Mette Foged (University of Copenhagen, Rockwool Foundation), Karen-Inge Karstoft (University of Copenhagen)* <br>
 
 <details>
   <summary>ABSTRACT</summary>
@@ -45,7 +48,7 @@ permalink: /research/
 <br>
 
 **Motivations for Female Political Representation - Perceptions and Preferences from Tanzania** <br>
-*with  Pablo Selaya (UCPH), and Sina Smid (CBS)* <br>
+*with  Pablo Selaya (University of Copenhagen), and Sina Smid (Bocconi)* <br>
 
 <details>
   <summary>ABSTRACT</summary>
@@ -57,6 +60,31 @@ permalink: /research/
 <br>
 
 
+**Accommodation Strategies in the Peak of a Refugee Crisis** <br>
+*with  Mette Foged (University of Copenhagen, Rockwool Foundation), Jens Hainmüller (Stanford), Mikkel Stahlschmidt (University of Copenhagen, Rockwool Foundation)* <br>
 
 
-# Work in Progress
+
+**Since the Invation** <br>
+*with  Sara Skriver Mundy (University of Copenhagen), Mette Foged (University of Copenhagen, Rockwool Foundation), Karen-Inge Karstoft (University of Copenhagen)* <br>
+
+<details>
+  <summary>PURPOSE</summary>
+  <div style="font-size: 12px;">
+The purpose is to inform resource allocation coordination in host countries that receives large-scale immigration of war refugees. Specifically, we investigate whether early relative immigration, defined as the time of immigration relative to war onset, is associated with greater access to socio-economic and mental health resources compared to later immigration.
+  </div>
+</details>
+
+<br>
+
+**Refugee Assimilation Across Scandinavia** <br>
+*with Jacob Nielsen Arendt (Rockwool Foundation), Bernt Bratsberg (Frisch Center), Mette Foged (University of Copenhagen, Rockwool Foundation), Olle Hammar (Linnaeus University), Giovanni Peri (UC Davis), Oddbjørn Raaum (Frisch Center), Sébastien Willis (Uppsala University)* <br>
+
+<details>
+  <summary>PURPOSE</summary>
+  <div style="font-size: 12px;">
+Refugee employment has recently reached record high levels in Denmark, with similar improvements in Norway and Sweden. Understanding why this has occurred – and whether it has occurred at the cost of limited language investments - is key to sustain the positive development. We will examine how the size and composition of the arrival cohorts, local labor demand, and national policy reforms contribute to employment trajectories of refugees by comparing Denmark, Sweden and Norway in a unified framework.
+  </div>
+</details>
+
+<br>
