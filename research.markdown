@@ -46,7 +46,6 @@ permalink: /research/
 
 <br>
 
-
 **PTSD and Refugees' Underemployment -- Evidence from People Displaced from Ukraine** <br>
 *with Mette Foged (University of Copenhagen, Rockwool Foundation), Karen-Inge Karstoft (University of Copenhagen)* <br>
 
@@ -86,6 +85,7 @@ Refugee employment has recently reached record high levels in Denmark, with simi
 **Accommodation Strategies in the Peak of a Refugee Crisis** <br>
 *with  Mette Foged (University of Copenhagen, Rockwool Foundation), Jens Hainmüller (Stanford), Mikkel Stahlschmidt (University of Copenhagen, Rockwool Foundation)* <br>
 
+<br>
 
 **Bridging and Dividing**<br>
 *with Vicky Fouka (Stanford), and Alain Schläpfer (Stanford)* <br>
