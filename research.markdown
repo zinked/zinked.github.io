@@ -60,6 +60,9 @@ permalink: /research/
 <br>
 
 
+**Bridging and Dividing**<br>
+*with Vicky Fouka (Stanford), and Alain Schläpfer (Stanford)* <br>
+
 **Accommodation Strategies in the Peak of a Refugee Crisis** <br>
 *with  Mette Foged (University of Copenhagen, Rockwool Foundation), Jens Hainmüller (Stanford), Mikkel Stahlschmidt (University of Copenhagen, Rockwool Foundation)* <br>
 
