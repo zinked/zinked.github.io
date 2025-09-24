@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other writing
-permalink: /other_writing/
+title: Other
+permalink: /other/
 ---
 
 **Størstedelen af ukrainerne ønsker at blive i Danmark** <br>
