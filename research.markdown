@@ -9,7 +9,7 @@ permalink: /research/
 **[The Making of a Ghetto: Place-Based Policies, Labeling, and Impacts on Neighborhoods and Individuals](https://docs.iza.org/dp17573.pdf)** <br>
 *with Jack Melbourne (Bocconi), Sara Signorelli (CREST), Yajna Govind (Copenhagen Business School)* <br>
 
-[IZA Discussion Paper](https://docs.iza.org/dp17573.pdf)<br>
+[Updated version](https://www.dropbox.com/scl/fi/5nlejsod8safo0007pv35/GMSZ_The-Making-of-a-Ghetto.pdf?rlkey=mn6eebac3trylhj6gj0rrq64j&st=i81c7gqm&dl=0), [IZA Discussion Paper](https://docs.iza.org/dp17573.pdf)<br>
 
 <details>
   <summary>ABSTRACT</summary>
