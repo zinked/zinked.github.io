@@ -6,6 +6,19 @@ permalink: /research/
 
 # Working Papers
 
+**PTSD and Refugees' Underemployment -- Evidence from People Displaced from Ukraine** <br>
+*with Mette Foged (University of Copenhagen, Rockwool Foundation), Karen-Inge Karstoft (University of Copenhagen)* <br>
+[RFBerlin Discussion Paper](https://www.rfberlin.com/network-paper/ptsd-and-refugees-underemployment-evidence-from-displaced-ukrainians/)<br>
+
+<details>
+  <summary>ABSTRACT</summary>
+  <div style="font-size: 12px;">
+  Employment gaps between refugees and natives are well documented, yet the role of trauma-related mental health in shaping these gaps remains underexplored, partly because most data sources lack measures of symptoms early after arrival. We assess probable PTSD shortly after displacement in an entire refugee arrival cohort and link these data to administrative tax records. We find that PTSD symptoms are associated with lower employment probabilities, explaining roughly one-quarter of the refugee-native employment gap one to two years after arrival. This difference is nearly twice as large as the difference attributable to English proficiency and comparable to the difference linked to pre-displacement employment. Among employed refugees, probable PTSD is associated with fewer hours worked per month, though not with lower hourly wages. Our findings underscore the potential of early psychological screening and support as complements to existing labor market integration policies.
+  </div>
+</details>
+
+<br>
+
 
 **How Initial Accommodation Shapes Refugee Integration: Quasi-Experimental Evidence from the Ukrainian Displacement Crisis in Denmark** <br>
 *with  Mette Foged (University of Copenhagen, Rockwool Foundation), Jens Hainmüller (Stanford), Mikkel Stahlschmidt (University of Copenhagen, Rockwool Foundation)* <br>
@@ -61,17 +74,6 @@ permalink: /research/
 
 <br>
 
-**PTSD and Refugees' Underemployment -- Evidence from People Displaced from Ukraine** <br>
-*with Mette Foged (University of Copenhagen, Rockwool Foundation), Karen-Inge Karstoft (University of Copenhagen)* <br>
-
-<details>
-  <summary>ABSTRACT</summary>
-  <div style="font-size: 12px;">
-  Refugee integration remains a major policy challenge in many host countries. Post-traumatic stress disorder (PTSD), resulting from exposure to war and violence, may affect refugees’ integration. Using survey data representative of an entire cohort of refugees -- collected shortly after arrival and linked to administrative tax records -- we quantify the PTSD employment gap. PTSD symptoms are associated with substantially lower employment probabilities, accounting for roughly a quarter of the overall refugee-native employment gap two years after arrival. These findings underscore the economic relevance of trauma and suggest that psychological support may complement existing integration policies.
-  </div>
-</details>
-
-<br>
 
 **Since the Invation** <br>
 *with  Sara Skriver Mundy (University of Copenhagen), Mette Foged (University of Copenhagen, Rockwool Foundation), Karen-Inge Karstoft (University of Copenhagen)* <br>
