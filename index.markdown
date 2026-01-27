@@ -20,7 +20,7 @@ layout: home
 
 <div class="container">
   <div class="column">
-    <img src="files/portrait.jpg" />
+    <img src="files/portrait_Jan2026.jpg" />
   </div>
   <div class="column">
     I am a political economist studying social exclusion and currently employed as a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. I am visiting Stanford University for the Fall 2025. <br>
