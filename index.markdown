@@ -12,7 +12,7 @@ layout: home
     margin: 0 30px; /* Adjust the margin as needed */
   }
   .column img {
-    max-width: 200px; /* Adjust the size as needed */
+    max-width: 400px; /* Adjust the size as needed */
     margin: 0 auto;
 	margin-bottom: 20px; /* Adjust the space as needed */
   }
@@ -23,7 +23,7 @@ layout: home
     <img src="files/portrait_Jan2026.JPG" />
   </div>
   <div class="column">
-    I am a political economist studying social exclusion and currently employed as a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. I am visiting Stanford University for the Fall 2025. <br>
+    I am a political economist studying social exclusion and currently employed as a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. <br>
     My PhD was on the political economy of social exclusion, with case studies in Tunisia, Tanzania, and Denmark. 
 	As a post-doc, I have since successfully developed this research, in an interdisciplinary approach with political scientists and psychologists, 
 	to study the social and economic integration of Ukrainian refugees in Denmark. 
