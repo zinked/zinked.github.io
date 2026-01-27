@@ -27,7 +27,7 @@ layout: home
     My PhD was on the political economy of social exclusion, with case studies in Tunisia, Tanzania, and Denmark. 
 	As a post-doc, I have since successfully developed this research, in an interdisciplinary approach with political scientists and psychologists, 
 	to study the social and economic integration of Ukrainian refugees in Denmark. 
-	In the future, I want to continue to contribute to a better understanding of the social fabric of our societies, with a focus on immigrant integration in Denmark.
+	In the future, I want to continue to contribute to a better understanding of the social fabric of our societies, with a focus on immigrant integration in Europe.
   </div>
 </div>
 
