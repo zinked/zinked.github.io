@@ -23,11 +23,10 @@ layout: home
     <img src="files/portrait_Jan2026.JPG" />
   </div>
   <div class="column">
-    I am a political economist studying social exclusion and currently employed as a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. <br>
+    I am an applied micro-economist studying integration and currently employed as a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. <br>
     My PhD was on the political economy of social exclusion, with case studies in Tunisia, Tanzania, and Denmark. 
 	As a post-doc, I have since successfully developed this research, in an interdisciplinary approach with political scientists and psychologists, 
-	to study the social and economic integration of Ukrainian refugees in Denmark. 
-	In the future, I want to continue to contribute to a better understanding of the social fabric of our societies, with a focus on immigrant integration in Europe.
+	to study the social and economic assimilation of Ukrainian refugees in Denmark. In the future, I will continue to contribute to a better understanding of the social fabric of our societies, with a focus on policy implications for immigrant integration in Europe.
   </div>
 </div>
 
