@@ -12,7 +12,7 @@ layout: home
     margin: 0 30px; /* Adjust the margin as needed */
   }
   .column img {
-    max-width: 400px; /* Adjust the size as needed */
+    max-width: 600px; /* Adjust the size as needed */
     margin: 0 auto;
 	margin-bottom: 20px; /* Adjust the space as needed */
   }
