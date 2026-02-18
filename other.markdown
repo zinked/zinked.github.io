@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other writings
+title: Public writing
 permalink: /other/
 ---
 

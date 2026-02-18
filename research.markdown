@@ -9,6 +9,7 @@ permalink: /research/
 **PTSD and Refugees' Underemployment -- Evidence from People Displaced from Ukraine** <br>
 *with Mette Foged (University of Copenhagen, Rockwool Foundation), Karen-Inge Karstoft (University of Copenhagen)* <br>
 [RFBerlin Discussion Paper](https://www.rfberlin.com/network-paper/ptsd-and-refugees-underemployment-evidence-from-displaced-ukrainians/)<br>
+Featured in [RF Berlin’s Research Insight: Why Some Refugees Struggle to Work][https://www.rfberlin.com/research-insights/why-some-refugees-struggle-to-work/] <br>
 
 <details>
   <summary>ABSTRACT</summary>
