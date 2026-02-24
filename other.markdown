@@ -4,6 +4,11 @@ title: Public writing
 permalink: /other/
 ---
 
+**3 ud af 4 Ukrainere ønsker at blive i Danmark** <br>
+*Foged, M., Karstoft, K.-I., Zink, E. (2026)* <br>
+[ROCKWOOL Fonden Forskning - Analyse](https://rockwoolfonden.dk/udgivelser/3-ud-af-4-ukrainere-oensker-at-blive-i-danmark/) <br>
+
+
 **Størstedelen af ukrainerne ønsker at blive i Danmark** <br>
 *Foged, M., Karstoft, K.-I., Zink, E. (2025)* <br>
 [ROCKWOOL Fonden Forskning - Analyse](https://rockwoolfonden.dk/udgivelser/stoerstedelen-af-ukrainerne-oensker-at-blive-i-danmark/) <br>
