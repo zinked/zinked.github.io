@@ -41,7 +41,7 @@ layout: home
   <div class="column">
   Welcome! <br>
     I am a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. <br>
-	My main research interests are economic and social integration. I currently mainly work on understanding the early integration of Ukrainian refugees in Denmark. <br>
+	My main research interests are economic and social integration, with a current focus on the early integration outcomes of Ukrainian refugees in Denmark. <br>
 	I will be visiting Stanford from April until June 2026. 
   </div>
 </div>
