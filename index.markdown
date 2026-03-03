@@ -39,7 +39,7 @@ layout: home
     <img src="files/portrait_Jan2026.JPG" alt="Portrait of Edith Zink" />
   </div>
   <div class="column">
-    I am a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. My main research interests are integration and exclusion. I currently mainly work on the economic and social assimilation of Ukrainian refugees in Denmark. <br>
+    I am a Post-Doc at the <a href="https://www.economics.ku.dk/">Department of Economics, University of Copenhagen</a>. My main research interests are integration and exclusion. I currently mainly work on the economic and social integration of Ukrainian refugees in Denmark. <br>
 	I will be visiting Stanford from April until June 2026. 
   </div>
 </div>
