@@ -22,7 +22,7 @@ Revise and resubmit at Economic Journal<br>
 
 
 **The Making of a Ghetto: Place-Based Policies, Labeling, and Impacts on Neighborhoods and Individuals** <br>
-*with Jack Melbourne (Bocconi), Sara Signorelli (CREST), Yajna Govind (Copenhagen Business School)* <br>
+*with Jack Melbourne (Bocconi), Sara Signorelli (CREST, Ecole Polytechnique), Yajna Govind (Aix-Marseille Université, Copenhagen Business School)* <br>
 [RFBerlin Discussion Paper](https://www.rfberlin.com/network-paper/the-making-of-a-ghetto-place-based-policies-labeling-and-impacts-on-neighborhoods-and-individuals/), [IZA Discussion Paper (outdated)](https://docs.iza.org/dp17573.pdf)<br>
 Revise and resubmit at Economic Journal<br>
 
